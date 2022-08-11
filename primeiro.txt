@@ -3,6 +3,4 @@ rsrs
 <<<<<<< HEAD
 hahahagitgigit
 rsrs
-hadfha
-
-git
+hadfhagit
